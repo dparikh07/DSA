@@ -1,0 +1,27 @@
+body{
+    background-color: #393E46;
+}
+.refresh{
+    font-size: 9rem;
+    font-family: 'Lobster', cursive;
+    color: #4ECCA3;
+    text-align: center;
+}
+.Dice{
+    display: inline-block;
+    text-align: center;
+}
+.Display{
+    text-align: center;
+}
+p{
+    font-size: 2rem;
+    color: #4ECCA3;
+    font-family: 'Indie Flower', cursive;
+}
+footer{
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    font-size: 2rem;
+    color: #EEEEEE;
+}
